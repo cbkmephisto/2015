@@ -36,4 +36,3 @@ At that point, homework repositories will be created for you.
 - run all the lab notebooks, including the git notebook, to get familiar with python, pandas and git
 
 By this point you should have a cs109-students/githubuserid-2015hw repository, - which you should clone, and carry out the homework flow on. (homework flow is in the README for https://github.com/cs109-students/2015hw and at the end of hw0.ipynb (https://github.com/cs109/2015lab1/blob/master/hw0.ipynb) and (https://github.com/cs109/2015lab1/blob/master/Lab1-git.ipynb).
-
